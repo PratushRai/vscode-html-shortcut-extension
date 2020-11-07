@@ -1,12 +1,8 @@
 # html-shortcuts README
 
-This is the README for your extension "html-shortcuts". After writing up a brief description, we recommend including the following sections.
-
 ## Features
 
 A library of html shortcut that help you to write html element quickly.
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ### 1.0.0
 
