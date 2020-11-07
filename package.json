@@ -3,6 +3,7 @@
     "displayName": "Html Shortcuts",
     "description": "A library of html shortcuts",
     "version": "1.0.0",
+    "icon": "icon.png",
     "publisher": "Pratush Rai",
     "repository": {
         "type": "git",
