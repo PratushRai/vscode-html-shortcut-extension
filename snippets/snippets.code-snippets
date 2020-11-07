@@ -16,5 +16,85 @@
       "</html>"
     ],
     "description": "Creates a html body for you!"
+  },
+  "Div Generator":{
+    "prefix": "!div-class",
+    "body": [
+      "<div class = \"classname\">",
+      "</div>"
+    ],
+    "description": "Generate a div element with a class"
+  },
+  "Div id Generator":{
+    "prefix": "!div-id",
+    "body": [
+      "<div id = \"idname\">",
+      "</div>"
+    ],
+    "description": "Generate a div element with a id"
+  },
+  "H1 Class Generator":{
+    "prefix": "!h1-class",
+    "body": [
+      "<h1 class = \"classname\">",
+      "</h1>"
+    ],
+    "description": "Generate a h1 element with a class"
+  },
+  "H1 Id Generator":{
+    "prefix": "!h1=id",
+    "body": [
+      "<h1 id = \"idname\">",
+      "</h1>"
+    ],
+    "description": "Generate a h1 element with id"
+  },
+  "Paragraph Class Generator":{
+    "prefix": "!p=class",
+    "body": [
+      "<p class = \"classname\">",
+      "</p>"
+    ],
+    "description": "Generate a p element with class"
+  },
+  "Paragraph Id Generator":{
+    "prefix": "!p-id",
+    "body": [
+      "<p class = \"classname\">",
+      "</p>"
+    ],
+    "description": "Generate a p element with id"
+  },
+  "Image Class Generator":{
+    "prefix": "!img-class",
+    "body": [
+      "<img class = \"classname\">",
+      "</img>"
+    ],
+    "description": "Generate a img element with class"
+  },
+  "Image Id Generator":{
+    "prefix": "!img-id",
+    "body": [
+      "<img id = \"idname\">",
+      "</img>"
+    ],
+    "description": "Generate a img element wit id"
+  },
+  "Script With Src":{
+    "prefix": "!script-src",
+    "body": [
+      "<script src = \"filename.js\">",
+      "</script>"
+    ],
+    "description": "Generate a script element with src"
+  },
+  "Script With Out Src":{
+    "prefix": "!script",
+    "body": [
+      "<script>",
+      "</script>"
+    ],
+    "description": "Generate a script element without src"
   }
 }
