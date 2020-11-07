@@ -3,6 +3,16 @@
     "displayName": "Html Shortcuts",
     "description": "A library of html shortcuts",
     "version": "1.0.0",
+    "publisher": "Pratush Rai",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pratushrai0309/vscode-html-shortcut-extension"
+    },
+    "author": {
+        "email": "pratushrai0309@gmail.com",
+        "name": "Pratush Rai",
+        "url": "https://github.com/pratushrai0309"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
